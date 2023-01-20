@@ -161,7 +161,7 @@ class _ControlPanelState extends State<ControlPanel> {
             padding: EdgeInsets.all(15),
             width: double.infinity,
             alignment: Alignment.centerRight,
-            child: Text("لوحة التّحكّم",style: TextStyle(color: Color(0xff9f8040) , fontSize: 15 , fontWeight: FontWeight.bold)),
+            child: Text("لوحة التّحكّم",style: TextStyle(color: Color(0xff9f8040) , fontSize: 20 , fontWeight: FontWeight.bold)),
           ),
           Card(
             child: Column(
